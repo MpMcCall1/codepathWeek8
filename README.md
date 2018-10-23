@@ -6,6 +6,8 @@ Vunerability #1: SQL Injection
 
 On the salesperson information page with the format id=?? in the url. If you just add a ' the website gives you a database query failed error therefor there is an SQL injection vunerability if you know what you are doing.
 
+![](blue_injection1.gif)
+
 Vunerability #2:
 
 ## Green
