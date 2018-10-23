@@ -28,4 +28,6 @@ Vunerability #1: Insecure Direct Object Reference
 
 The salesperson database can be accessed past what it shows on the page with the id tag. The page ends with the id tag 9 while if you change the ID tag to ten it still works.
 
+![](red_injection1.gif)
+
 Vunerability #2: 
