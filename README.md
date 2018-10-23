@@ -15,7 +15,7 @@ Vunerability #1: User Enurmation
 
 When using a username and password that doesnt exist. The site states "Log in was unsuccessful." When you use a username that does exist with a random password, it shows a bold "Log in was unsuccessful.".
 
-
+![](green_injection1.gif)
 
 Vunerability #2: Cross-Site Scripting
 
