@@ -19,6 +19,10 @@ When using a username and password that doesnt exist. The site states "Log in wa
 
 Vunerability #2: Cross-Site Scripting
 
+Store an XXS alert in the Contact form. <script>alert('test');</script>
+
+![](green_injection2.gif)
+
 ## Red
 Vunerability #1: Insecure Direct Object Reference
 
