@@ -31,3 +31,7 @@ The salesperson database can be accessed past what it shows on the page with the
 ![](red_injection1.gif)
 
 Vunerability #2: 
+
+The site accepts Post request from outside sources.
+
+![](red_injection2.gif)
