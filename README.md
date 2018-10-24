@@ -10,6 +10,8 @@ On the salesperson information page with the format id=?? in the url. If you jus
 
 Vunerability #2:
 
+When logged into the site. An attacker can use that persons session id to get the same access as that user.
+
 ## Green
 Vunerability #1: User Enurmation
 
